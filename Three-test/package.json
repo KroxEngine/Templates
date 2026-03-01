@@ -1,0 +1,20 @@
+{
+  "name": "three-default",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "editor": "krox-editor",
+    "build": "krox-bundler"
+  },
+  "dependencies": {
+    "three": "^0.179.0",
+    "@krox/adapi": "workspace:*",
+    "@krox/core": "workspace:*",
+    "@krox/three": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/three": "^0.179.0",
+    "@krox/editor": "workspace:*",
+    "@krox/bundler": "workspace:*"
+  }
+}
