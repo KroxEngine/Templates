@@ -8,13 +8,13 @@
   },
   "dependencies": {
     "three": "^0.179.0",
-    "@krox/adapi": "workspace:*",
-    "@krox/core": "workspace:*",
-    "@krox/three": "workspace:*"
+    "@KroxEngine/adapi": "^1.0.1",
+    "@KroxEngine/core": "^0.1.1",
+    "@KroxEngine/three": "^1.0.1"
   },
   "devDependencies": {
     "@types/three": "^0.179.0",
-    "@krox/editor": "workspace:*",
-    "@krox/bundler": "workspace:*"
+    "@KroxEngine/editor": "^0.1.1",
+    "@KroxEngine/bundler": "^1.0.1"
   }
 }
